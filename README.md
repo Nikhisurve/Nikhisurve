@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating new software and apps
 - 🌱 I’m currently learning ...python ml
 - 💞️ I’m looking to collaborate on python based projects
-- 📫 How to reach me ...nsurve1998@gmail.com 
+- 📫 How to reach me ...nikhuilsurve135@gmail.com 
 
 <!---
 Nikhisurve/Nikhisurve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
